@@ -47,13 +47,14 @@ Providing dedicated IT service models and delivery channels across strategic reg
 
 ---
 
+
 ### 📊 Dev Dashboard & Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raosahil0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Sahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raosahil0&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="Top Languages" />
-</p>
-
+| 📈 Activity Metrics | 💻 Core Repository Distribution |
+| :--- | :--- |
+| 🚀 **Total Commits:** Tracking active production pushes | ⚡ **Primary Architecture:** React, Tailwind CSS |
+| 🔓 **Private Repos:** Contributions fully indexed | 📱 **Mobile Eco:** Flutter & Dart Interfaces |
+| 📦 **Deployment Sync:** Automated Vercel workflows | 🗺️ **Operational Scope:** Regional Multi-Hub Delivery |
 ---
 
 ### 🤝 Let's Connect!
