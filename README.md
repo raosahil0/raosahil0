@@ -37,6 +37,8 @@ I am a passionate web developer focused on building clean, high-performance, and
 ### 🤝 Let's Connect!
 
 * **Instagram:** [@thekeda.r](https://instagram.com/thekeda.r)
+* **Instagram:** [@raosahil_.0](https://instagram.com/raosahil._0) 
 * **GitHub:** [github.com/raosahil0](https://github.com/raosahil0)
-
+* **GitHub:** [github.com/sahilyadav-01](https://github.com/sahilyadav-01)
+* 
 *"Building robust code, one pixel at a time."*
